@@ -1,2 +1,2 @@
 # L-llogistics
-Repositorio para el proyecto Logistica
+Repositorio de Base de Datos para el proyecto Logistics
